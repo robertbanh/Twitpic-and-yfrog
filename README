@@ -1,0 +1,16 @@
+::README::
+
+DEMO:
+http://thetwittertagproject.com/twitpic/
+
+Instructions:
+1. Unzip all files and place them on your webserver. 
+   Any location is fine.
+2. Open up config.php to set the amount of images to pull from twitter. 100 is the max. If you only wish to fetch images from twitpic, you can comment out the yfrog code.
+3. Load up index.php and you're done!
+
+Styling:
+- Use the index.php and style.css to edit or modify any and all look and feel.
+
+Code:
+- All PHP engine code is in twitpic_yfrog.php
